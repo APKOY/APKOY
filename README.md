@@ -1,8 +1,8 @@
 
 ---
 
-<div style="float: left; width: 20%; margin-right: 10px;">
-  <img width="15%" src="!https://github.com/APKOY/APKOY/assets/171528136/cb5025a4-2ed5-4403-8c30-01759020e571" 
+<div style="float: left; width: 20%; margin-right: 90px;">
+  <img width="15%" src="https://github.com/APKOY/APKOY/assets/171528136/cb5025a4-2ed5-4403-8c30-01759020e571" 
  target="_blank">
   <!-- 
   https://picrew.me/en/image_maker/338224#google_vignette
