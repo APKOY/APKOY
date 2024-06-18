@@ -2,20 +2,16 @@
 ---
 <div>
   <a href = "https://github.com/APKOY">
-  <img width="50%" src="https://github.com/APKOY/APKOY/assets/171528136/3247907f-59d9-4458-900e-8de8c785e74c"
+  <img width="55%" src="https://github.com/APKOY/APKOY/assets/171528136/3247907f-59d9-4458-900e-8de8c785e74c"
  target="_blank">
-  <!-- 
-  https://github.com/APKOY/APKOY/assets/171528136/eab368cb-05a2-45a1-8211-5e460053357b
-  gift maker 
-  https://ezgif.com/maker
-  -->
+  </a>
 </div>
 
 <div>
 <div style="display: inline_block"><br>
 </div> 
 
-## Hi guys, my name is Alexsander Motta and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
+## Hello there, my name is Alexsander Motta and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
 <!-- 
 icon 
 https://emojipedia.org/pt/castor
@@ -32,13 +28,11 @@ Welcome to my GitHub profile! I'm Alexsander Motta, a technology enthusiast with
 
 ## 🌐 Connect with me
 <div> 
-   <a href="https://www.linkedin.com/in/alexsander-motta-da-costa-ribeiro-de-souza-012837314/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!--
-  https://dev.to/envoy_/150-badges-for-github-pnk
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  -->
+   <a href="https://www.linkedin.com/in/alexsander-motta-da-costa-ribeiro-de-souza-012837314/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a> 
+  <a href="https://www.instagram.com/_ribeiro_sm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/apkoy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "alexsander2006.ribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
