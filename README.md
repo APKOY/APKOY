@@ -17,7 +17,7 @@ icon
 https://emojipedia.org/pt/castor
 -->
 
-Welcome to my GitHub profile! I'm Alexsander Motta, a technology enthusiast with a passion for programming. Although I don't particularly enjoy coding, I love exploring new technologies and creating cool projects.
+Welcome to my GitHub profile! I'm Alexsander Motta, a technology enthusiast with a passion for programming. Although I don't particularly enjoy coding, I love exploring new technologies and creating big projects.
 
 ## 🛠️ learning
 <div style="display: inline_block"><br>
@@ -37,29 +37,8 @@ Welcome to my GitHub profile! I'm Alexsander Motta, a technology enthusiast with
   -->
 </div>
 
-## 📊 GitHub Stats
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbric&show_icons=true&theme=radical)
 
-## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbric&layout=compact&theme=radical)
 
-<!-- ## 📝 Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🚀 Projects
-Here are some of the projects I've been working on:
-
-- **Project 1**: 2Gater: A site for organizing parties
-- **Project 2**: I developed an incident reporting website for CEUB  
-- **Project 3**: I created a 3D museum using C language and OpenGL with the help of Guilherme GHZ
-
-<!--
-## 🔗 Useful Links
-- [Portfolio](https://yourportfolio.com)
-- [Blog](https://yourblog.com)
-- [YouTube Channel](https://youtube.com/yourchannel)
--->
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
