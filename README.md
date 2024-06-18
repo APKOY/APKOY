@@ -1,11 +1,10 @@
 
 ---
-
-<div style="float: left; width: 20%; margin-right: 90px;">
-  <img width="15%" src="https://github.com/APKOY/APKOY/assets/171528136/70c6cb0f-a73e-4239-b7d8-e4e27db72f74"
+<div>
+  <img width="50%" src="https://github.com/APKOY/APKOY/assets/171528136/3247907f-59d9-4458-900e-8de8c785e74c"
  target="_blank">
   <!-- 
-  https://picrew.me/en/image_maker/338224#google_vignette
+  https://github.com/APKOY/APKOY/assets/171528136/eab368cb-05a2-45a1-8211-5e460053357b
   gift maker 
   https://ezgif.com/maker
   -->
