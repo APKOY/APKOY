@@ -19,24 +19,16 @@ https://emojipedia.org/pt/castor
 
 Welcome to my GitHub profile! I'm Alexsander Motta, a technology enthusiast with a passion for programming. Although I don't particularly enjoy coding, I love exploring new technologies and creating cool projects.
 
-## 🛠️ Skills & Tools
+## 🛠️ learning
 <div style="display: inline_block"><br>
-  <img align="center" alt="Photoshop" height="40" width="50" src="https://icongr.am/devicon/photoshop-line.svg?size=148&color=2e6dff">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="40" width="50" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=148&color=7c0594">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="40" width="50" src="https://icongr.am/devicon/c-original.svg?size=148&color=7c0594">
-  <img align="center" alt="GIThub" height="40" width="50" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=a6ff00">
-  <img align="center" alt="Linux" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=148&color=000000">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=148&color=2e6dff">
-  <img align="center" alt="Mysql" height="70" width="80" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=2e6dff">
-  <img align="center" alt="SLACK" height="70" width="80" src="https://icongr.am/devicon/slack-original-wordmark.svg?size=148&color=000000">
 </div>
 
 ## 🌐 Connect with me
 <div> 
-  <a href="https://www.linkedin.com/in/arthur-arash-briceno-heidari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alexsander-motta-da-costa-ribeiro-de-souza-012837314/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!--
   https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
