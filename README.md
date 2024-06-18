@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
 </div> 
 
-## Hello there, my name is Alexsander Motta and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
+## Hello there, my name is Alexsander and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
 <!-- 
 icon 
 https://emojipedia.org/pt/castor
