@@ -33,10 +33,7 @@ Welcome to my GitHub profile! I'm Alexsander Motta, a technology enthusiast with
   <a href="https://www.instagram.com/_ribeiro_sm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "Mailto:https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMhqcNPXNRQjQtPPPQMNGNQCjfzPnxWsNkCqsPTSnKcsnWMHxMMHMFkBtDkdzSZHpDhJWP"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-
-
-
+--->
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
 ---
