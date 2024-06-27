@@ -17,7 +17,7 @@ icon
 https://emojipedia.org/pt/castor
 -->
 
-Welcome to my GitHub profile! I'm Alexsander Motta, a technology enthusiast with a passion for programming. Although I don't particularly enjoy coding, I love exploring new technologies and creating big projects.
+Welcome to my GitHub profile! I'm Alexsander Motta, a computer science studant and I have a big passion for technology. I love exploring new technologies and new things, and also be able to creating big projects.
 
 ## 🛠️ learning
 <div style="display: inline_block"><br>
