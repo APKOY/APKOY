@@ -12,10 +12,6 @@
 </div> 
 
 ## Hello there, my name is Alexsander and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
-<!-- 
-icon 
-https://emojipedia.org/pt/castor
--->
 
 Welcome to my GitHub profile! I'm Alexsander Motta, a computer science studant and I have a big passion for technology. I love exploring new technologies and new things, and also be able to creating big projects.
 
