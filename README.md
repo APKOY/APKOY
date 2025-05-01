@@ -10,15 +10,16 @@
 <div style="display: inline_block"><br>
 </div> 
 
-## Hello there, my name is Alexsander and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
+## Hello there, my name is Alexsander and I'm a technology enthusiast. 👨🏽‍💻
 
-Welcome to my GitHub profile! I'm Alexsander Motta, a computer science studant and I have a big passion for technology. I love exploring new technologies and new things, and also be able to creating big projects.
+I'm a computer science studant and I have a big passion for technology. I love exploring new technologies and new things, and also be able to creating big projects!
 
 ## 🛠️ learning
 <div style="display: inline_block"><br>
   * <img align="center" alt="C" height="40" width="50" src="https://icongr.am/devicon/c-original.svg?size=148&color=7c0594">
   * <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   * <img align="center" alt="git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=148&color=2e6dff">
+  * <img align="center" alt="git" height="40" width="50" src = "https://icons8.com.br/icon/Z0PcQHo0lKzA/python"> 
 </div>
 
 ## 🌐 Connect with me
