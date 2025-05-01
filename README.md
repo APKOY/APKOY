@@ -19,7 +19,7 @@ I'm a computer science studant and I have a big passion for technology. I love e
   * <img align="center" alt="C" height="40" width="50" src="https://icongr.am/devicon/c-original.svg?size=148&color=7c0594">
   * <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   * <img align="center" alt="git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=148&color=2e6dff">
-  * <img align="center" alt="git" height="40" width="50" src = "https://icons8.com.br/icon/Z0PcQHo0lKzA/python"> 
+  * <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 </div>
 
 ## 🌐 Connect with me
