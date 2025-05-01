@@ -29,8 +29,8 @@ I'm a computer science studant and I have a big passion for technology. I love e
   <a href="https://www.instagram.com/ribeiroomss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "Mailto:https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMhqcNPXNRQjQtPPPQMNGNQCjfzPnxWsNkCqsPTSnKcsnWMHxMMHMFkBtDkdzSZHpDhJWP"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
---->
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+<br>
+---> Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas! <---
 
 ---
 
